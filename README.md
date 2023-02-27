@@ -1,12 +1,5 @@
 # Markdown Editor
 
-## Video
-
-Made with React, Vite, and Codemirror, watch the youtube video to know more:
-
-[![markdown editor](./docs/min_md.png)](https://www.youtube.com/watch?v=iqH62Q7otJw)
-
-
 ## Install
 
 ```bash
@@ -45,7 +38,7 @@ MARKDOWN_EDITOR
 * [Unified](https://unifiedjs.com/): Compiles content to syntax trees and syntax trees to content.
 * [Remark](https://remark.js.org/): Markdown processor powered by plugins.
 
-### Latest Project
+### Project example
 
 Markdown Web Editor => [MarkWriter](https://markwriter.tech/)
 
